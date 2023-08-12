@@ -1,11 +1,9 @@
-
-import axios from 'axios';
-import { useState ,useMemo} from 'react';
+import QuizPage from "./QuizPage";
 function App() {
   
   return (
     <div className="App">
-      
+      <QuizPage/>
     </div>
   );
 }
