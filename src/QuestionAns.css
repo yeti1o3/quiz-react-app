@@ -1,6 +1,9 @@
 .QuestionAns{
-    width:800px;
-    height: 600px;
+    width:80%;
+    height: max-content;
     background-color: #b5838d;
     border-radius: 40px;
+    padding:20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
